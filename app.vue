@@ -14,6 +14,9 @@ body {
 .justify-content-center {
   justify-content: center;
 }
+.justify-content-between {
+  justify-content: space-between;
+}
 .justify-content-start {
   justify-content: flex-start;
 }
