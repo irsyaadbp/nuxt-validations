@@ -9,5 +9,10 @@
   },
   "devDependencies": {
     "nuxt": "^3.1.0"
+  },
+  "dependencies": {
+    "@vee-validate/rules": "^4.7.3",
+    "vee-validate": "^4.7.3",
+    "yup": "^0.32.11"
   }
 }
