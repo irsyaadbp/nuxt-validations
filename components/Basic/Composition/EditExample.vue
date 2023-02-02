@@ -32,7 +32,7 @@ const simpleSchema = {
   name: validateName,
 };
 
-const { handleSubmit, handleReset, setValues, errors } = useForm({
+const { handleSubmit, handleReset, setValues } = useForm({
   validationSchema: simpleSchema,
 });
 
